@@ -1,0 +1,16 @@
+.box {
+    height: 60px;
+    width: 60px;
+    background-color: green;
+}
+
+/* .box:hover {
+    width: 120px;
+    transition: width 2s;
+} */
+
+.stretch {
+    height: 120px;
+    width: 120px;
+    transition: width 2s linear, height 2s ease;
+}
