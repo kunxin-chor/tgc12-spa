@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.page {
+    height: 80vh;
+    position: absolute;
+    width: 100%;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+#all-pages {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+#page1 {
+    background-color: aliceblue;
+}
